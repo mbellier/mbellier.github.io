@@ -168,7 +168,7 @@
 
 .page-heading {
     font-size: $base-font-size;
-		font-weight: bold;
+    font-weight: bold;
 }
 
 .post-list {
@@ -176,7 +176,21 @@
     list-style: none;
 
     > li {
-        margin-bottom: 1em;
+      padding-top: 5px;
+      margin-top: 5px;
+      border-top: 1px solid rgba(0, 0, 0, 0.08);
+    }
+
+    > li:first-child{
+      padding-top: 0;
+      margin-top: 0;
+      border-top: 0;
+    }
+
+    > li:hover {
+      .post-meta {
+        color: $grey-color-dark;
+      }
     }
 }
 

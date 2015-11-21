@@ -1,27 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <metacharset="utf-8">
-    <metaname="viewport" content="width=device-width, initial-scale=1">
-    <title>mbellier.github.io</title>
-    <style type="text/css">
-    body{
-      margin:40px auto;
-      max-width:700px;
-      line-height:1.6;
-      font-size:18px;
-      background-color:#F8F4EE;
-      color:#333;
-      padding:0 10px
-    }
-    h1,h2,h3{line-height:1.2}
-    </style>
-  </head>
-  <body>
-    <header>
-      <h1>Hello World!</h1>
-    </header>
-    <h2>Lorem Ipsum</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  </body>
-</html>
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d %b %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  
+</div>

@@ -10,4 +10,4 @@ github_username:  mbellier
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /posts/:year-:month-:day-:title/

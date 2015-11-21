@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello World!"
 date:   2015-11-21 01:34:00
-categories: test
 ---
 
 ##Lorem Ipsum

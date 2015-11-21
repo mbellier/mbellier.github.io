@@ -154,10 +154,16 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: #{$width};
+    max-width: #{$width -  $global-padding * 2};
+    padding-left: $global-padding;
+    padding-right: $global-padding;
     margin-right: auto;
     margin-left: auto;
     @extend %clearfix;
+}
+
+.body > .wrapper {
+
 }
 
 

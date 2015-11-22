@@ -103,6 +103,14 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+
+    > a { text-decoration: none; }
+
+    .icon { margin-right: 2px; }
+
+    .icon:hover > svg {
+        path { fill: $grey-color-dark; }
+    }
 }
 
 .footer-col-wrapper {

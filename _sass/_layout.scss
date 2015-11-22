@@ -106,10 +106,10 @@
     > a { text-decoration: none; }
 
     .icon { margin-right: 2px; }
+}
 
-    .icon:hover > svg {
-        path { fill: $grey-color-dark; }
-    }
+.icon:hover > svg {
+    path { fill: $grey-color-dark; }
 }
 
 .footer-col-wrapper {

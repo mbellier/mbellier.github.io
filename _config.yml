@@ -12,4 +12,4 @@ linkedin_link: https://www.linkedin.com/in/maxime-bellier-3652985b
 
 # Build settings
 markdown: kramdown
-permalink: /posts/:year-:month-:day-:title
+permalink: /posts/:year/:month/:day/:title

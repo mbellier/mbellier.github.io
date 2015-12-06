@@ -12,7 +12,7 @@ Despite the lack of GUI options, TextMate's key binding can be modified using th
 
 ### OS X Shortcuts
 
-Instead, OS X provides an easy way to create shotcuts for any application.
+Instead, OS X provides an easy way to create shortcuts for any application.
 
 Go to *System preferences*, *Keyboard* and open the *Shortcuts* tab. Select *All applications* then click the `+` icon. Use the following configuration:
 

@@ -1,11 +1,11 @@
 # Site settings
-title: Maxime Bellier
-email: "contactATmaximebellierDOTcom"
+title: thire.io
+email: "contactATthireDOTio"
 description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://www.maximebellier.com # the base hostname & protocol for your site
-enforce_ssl: www.maximebellier.com
+url: https://www.thire.io # the base hostname & protocol for your site
+enforce_ssl: www.thire.io
 twitter_username:
 github_username:  mbellier
 linkedin_link: https://www.linkedin.com/in/maxime-bellier-3652985b

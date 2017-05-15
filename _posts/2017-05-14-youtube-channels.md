@@ -5,7 +5,8 @@ date:   2017-05-14
 categories: 
 ---
 
-## English speaking
+### English speaking
+
 
 | Channel | Categories |
 | ------ | ------ |
@@ -52,7 +53,11 @@ categories:
 |  Primitive Technology | survival, craftmanship |
 |  Survival Lilly | survival |
 
-## French speaking
+
+
+
+### French speaking
+
 
 | Channel | Categories |
 | ------ | ------ |

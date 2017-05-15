@@ -5,9 +5,7 @@ date:   2017-05-14
 categories: 
 ---
 
-# Curated list of educative Youtube channels
-
-### English speaking
+## English speaking
 
 | Channel | Categories |
 | ------ | ------ |
@@ -55,6 +53,7 @@ categories:
 |  Survival Lilly | survival |
 
 ## French speaking
+
 | Channel | Categories |
 | ------ | ------ |
 |  Datagueule | politics, societal | 

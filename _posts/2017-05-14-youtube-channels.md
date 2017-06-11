@@ -35,6 +35,7 @@ categories:
 |  |  |
 |  CrashCourse | educative, general |
 |  Artifexian | linguistics, conlang, wordbuilding |
+|  NativLang | linguistics | 
 |  Nerdwriter1 | writing |
 |  Practical Psychology | psychology |
 |  Thought Monkey | philosophy |
@@ -61,6 +62,7 @@ categories:
 
 | Channel | Categories |
 | ------ | ------ |
+| La statistique expliquee a mon chat | statistics | 
 |  Datagueule | politics, societal | 
 |  e-epenser | educative, science | 
 |  IFRI | politics |
